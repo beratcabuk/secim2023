@@ -153,3 +153,4 @@ cython_debug/
 datasets/kilicdar10000
 datasets/secim50000
 datasets/tw_r1_processed.csv
+*.csv
